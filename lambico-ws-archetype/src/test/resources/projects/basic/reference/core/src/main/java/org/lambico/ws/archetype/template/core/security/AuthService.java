@@ -11,7 +11,6 @@ import java.util.List;
  * The authorization and authentication services.
  *
  * @author Lucio Benfante <lucio.benfante@gmail.com>
- * @version $Revision$
  */
 public interface AuthService {
 

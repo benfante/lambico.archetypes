@@ -17,7 +17,6 @@ import org.lambico.po.hibernate.EntityBase;
  * An example of a persistent object containing personal data.
  *
  * @author <a href="mailto:lucio@benfante.com">Lucio Benfante</a>
- * @version $Revision$
  */
 @javax.persistence.Entity
 @XmlRootElement

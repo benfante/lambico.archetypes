@@ -15,7 +15,6 @@ import org.lambico.ws.archetype.template.core.po.Person;
  * The DAO interface for the Person entity.
  *
  * @author <a href="mailto:lucio@benfante.com">Lucio Benfante</a>
- * @version $Revision$
  */
 @Dao(entity = Person.class)
 public interface PersonDao extends GenericDao<Person, Long> {
